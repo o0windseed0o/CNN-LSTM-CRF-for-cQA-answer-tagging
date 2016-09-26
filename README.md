@@ -7,8 +7,10 @@ It is to be appeared in coling 2016.
 
 The experiments are carried on SemEval 2015 task-3 cQA dataset.
 
-  -ARC-I: 58.96 in F1
+  ----ARC-I: 58.96 in F1
 
-  -ARC-II: 58.29 in F1
+  ----ARC-II: 58.29 in F1
+  
+The systems can be easily implemented with the help of https://github.com/glample/tagger and the parameter settings described in the coling paper.
 
 Any work compared with this paper, please cite when the paper published (late Novemeber, 2016).
